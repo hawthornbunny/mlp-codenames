@@ -7,10 +7,10 @@ This is a set of _My Little Pony_-themed word pack files for you to download and
 
 The following word packs are available:
 
-* [fim-common.txt](fim-common.txt): A set of 300+ words containing characters and concepts from the _My Little Pony: Friendship is Magic_ TV series only. The word selection is designed not to be too obscure and should only require general knowledge gained from watching the show.
-* [g4.txt](g4.txt): A set of 550+ words covering the entirety of _My Little Pony_ Generation 4, including _Friendship is Magic_, _Equestria Girls_, _My Little Pony: The Movie_ (2017), _Rainbow Roadtrip_, _Pony Life_, and the IDW comics. May include obscure characters and concepts. Recommended for knowledgeable fans of MLP Generation 4.
-* [g5.txt](g5.txt): A set of 90+ words pertaining to _My Little Pony_ Generation 5 only, starting with the 2021 movie _My Little Pony: A New Generation_ and including _Make Your Mark_, _Tell Your Tale_ and the 2022 video game _My Little Pony: A Maretime Bay Adventure_.
-* [g4-and-g5.txt](g4-and-g5.txt): A combination of the G4 and G5 sets.
+* **[fim-common.txt](fim-common.txt)**: A set of 300+ words containing characters and concepts from the _My Little Pony: Friendship is Magic_ TV series only. The word selection is designed not to be too obscure and should only require general knowledge gained from watching the show.
+* **[g4.txt](g4.txt)**: A set of 550+ words covering the entirety of _My Little Pony_ Generation 4, including _Friendship is Magic_, _Equestria Girls_, _My Little Pony: The Movie_ (2017), _Rainbow Roadtrip_, _Pony Life_, and the IDW comics. May include obscure characters and concepts. Recommended for knowledgeable fans of MLP Generation 4.
+* **[g5.txt](g5.txt)**: A set of 90+ words pertaining to _My Little Pony_ Generation 5 only, starting with the 2021 movie _My Little Pony: A New Generation_ and including _Make Your Mark_, _Tell Your Tale_ and the 2022 video game _My Little Pony: A Maretime Bay Adventure_.
+* **[g4-and-g5.txt](g4-and-g5.txt)**: A combination of the G4 and G5 sets.
 
 ## Long version
 
@@ -18,7 +18,7 @@ The following word packs are available:
 A small collection of _My Little Pony_ themed word pack files for the online version of the board game _Codenames_, plus some convenience tools to make the word packs easier to curate.
 
 ### What's _Codenames_?
-[_Codenames_](https://czechgames.com/en/codenames/) is a competitive board game by Czech Games Edition. The game consists of a grid of 25 randomly-selected words (the "codenames"), some of which belong to your team and some of which belong to the opposing team. Only the Spymaster of each team knows which words are theirs. The Spymaster's job is to give limited clues to try to help their team figure out which words are theirs, before the opposing team manages to find their own words.
+_[Codenames](https://czechgames.com/en/codenames/)_ is a competitive board game by Czech Games Edition. The game consists of a grid of 25 randomly-selected words (the "codenames"), some of which belong to your team and some of which belong to the opposing team. Only the Spymaster of each team knows which words are theirs. The Spymaster's job is to give limited clues to try to help their team figure out which words are theirs, before the opposing team manages to find their own words.
 
 This might sound simple, but in practice it is a fiendishly tense battle of communication, psychology, and lateral thinking, and it's an absolute blast to play live with others. It works very well played online, especially with voice chat. You need at least 4 players, although there's also a _Codenames Duet_ variant which works with only 2 players.
 
