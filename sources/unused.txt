@@ -1,0 +1,10 @@
+# This file contains items that could theoretically be codenames, but which aren't being used in-game for whatever reason.
+
+## Characters invented by Pinkie Pie in "Party of One":
+Rocky
+Madame Le Flour
+Sir Lintsalot
+Mr. Turnip
+
+## The dragon from Smolder's story in "The Hearth's Warming Club".
+Scales

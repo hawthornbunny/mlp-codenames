@@ -1,0 +1,339 @@
+# My Little Pony: Friendship is Magic - common characters and concepts
+
+## Characters
+Ahuizotl
+A K Yearling
+Angel Wings
+Apple Bloom
+Applejack
+Autumn Blaze
+Babs Seed
+Big Daddy McColt
+Big Macintosh
+Bon Bon
+Bow Hothoof
+Braeburn
+Bright Mac
+Bulk Biceps
+Princess Cadance
+Mr. Cake
+Mrs. Cake
+Princess Celestia
+Chancellor Neighsay
+Cheerilee
+Cheese Sandwich
+Cherry Jubilee
+Chief Thunderhooves
+Queen Chrysalis
+Cloudy Quartz
+Coco Pommel
+Coloratura
+Cozy Glow
+Crackle
+Cranky Doodle Donkey
+Daring Do
+Daybreaker
+Derpy
+Diamond Tiara
+Discord
+DJ Pon-3
+Donut Joe
+Double Diamond
+Dragon Lord Torch
+Dr. Caballeron
+Dr. Whooves
+Dusty Pages
+Dragon Lord Ember
+Fancy Pants
+Feather Bangs
+Featherweight
+Filthy Rich
+Flam
+Flash Magnus
+Fleetfoot
+Fleur de Lis
+Flim
+Flurry Heart
+Fluttershy
+Gabby
+Gallus
+Garble
+Gilda
+Goldie Delicious
+Grampa Gruff
+Grand Pear
+Granny Smith
+Grogar
+Hayseed Turnip Truck
+Hoity Toity
+Igneous Rock Pie
+Inky Rose
+Iron Will
+Lightning Dust
+Li'l Cheese
+Lily Lace
+Limestone Pie
+Little Strongheart
+Princess Luna
+Luster Dawn
+Lyra Heartstrings
+Ma Hooffield
+Mage Meadowbrook
+Marble Pie
+Matilda
+Maud Pie
+Mayor Mare
+Minuette
+Mistmane
+Moondancer
+Ms. Harshwhinny
+Mudbriar
+Night Glider
+Night Light
+Nightmare Moon
+Nurse Redheart
+Ocellus
+Octavia
+Party Favor
+Pear Butter
+Pharynx
+Photo Finish
+Pinkie Pie
+Pipsqueak
+Pistachio Acorn
+Plaid Stripes
+Pony of Shadows
+Pound Cake
+Prince Blueblood
+Prince Rutherford
+Pumpkin Cake
+Quibble Pants
+Rainbow Dash
+Rarity
+Rockhoof
+Rumble
+Saffron Masala
+Sandbar
+Sans Smirk
+Sapphire Shores
+Scootaloo
+Scorpan
+Seabreeze
+Sheriff Silverstar
+Shining Armor
+Silver Spoon
+Silverstream
+Sky Stinger
+Sludge
+Smolder
+The Smooze
+Snails
+Snips
+Soarin'
+King Sombra
+Somnambula
+Sonata Dusk
+Spike
+Spitfire
+Spoiled Rich
+Spur
+Starlight Glimmer
+Starstreak
+Star Swirl the Bearded
+Steven Magnet
+Strawberry Sunrise
+Stygian
+Sugar Belle
+Sunburst
+Suri Polomare
+Svengallop
+Sweetie Belle
+Tender Taps
+Terramar
+Thorax
+Thunderlane
+Lord Tirek
+Tree Hugger
+Trenderhoof
+Trixie
+Trouble Shoes
+Twilight Sparkle
+Twilight Velvet
+Twist
+Vapor Trail
+Vinyl Scratch
+Wind Sprint
+Windy Whistles
+Yona
+Zecora
+Zephyr Breeze
+Zesty Gourmand
+
+## Races
+alicorn
+breezie
+buffalo
+changeling
+crystal pony
+diamond dog
+donkey
+draconequus
+dragon
+earth pony
+griffon
+hippogriff
+kirin
+minotaur
+mule
+nirik
+pegasus
+reindeer
+seapony
+unicorn
+yak
+zebra
+
+## Groups and organizations
+Cutie Mark Crusaders
+The Pony Tones
+Power Ponies
+
+## Artifacts
+Alicorn Amulet
+Bewitching Bell
+Bloodstone Scepter
+Crystal Heart
+The Cutie Map
+Elements of Harmony
+The Rings of Scorchero
+The Sapphire Statue
+Staff of Sameness
+Holder's Boulder
+
+## Regions
+Appleloosa
+Canterlot
+Cloudsdale
+Changeling Kingdom
+Crystal Empire
+Equestria
+Everfree Forest
+Froggy Bottom Bogg
+Ponyville
+Griffonstone
+Las Pegasus
+Manehattan
+Maretropolis
+Rainbow Falls
+Mount Aris
+Yakyakistan
+Tartarus
+Ghastly Gorge
+Saddle Arabia
+
+## Buildings and sites
+Canterlot Carousel
+Canterlot Palace
+Carousel Boutique
+Castle of Friendship
+Castle of the Two Sisters
+Friendship University
+Golden Oak Library
+Ponehenge
+Rarity For You
+Scariest Cave in Equestria
+School of Friendship
+Silver Shoals
+Sugarcube Corner
+Sweet Feather Sanctuary
+The Mirror Pool
+The Tasty Treat
+Tree of Harmony
+Treehouse of Harmony
+Wonderbolts Academy
+
+## Events
+Applewood Derby
+cuteceañera
+Equestria Games
+Grand Galloping Gala
+Hearts and Hooves Day
+Hearth's Warming
+Nightmare Night
+Running of the Leaves
+Sisterhooves Social
+Summer Sun Celebration
+Trivia Trot
+Winter Wrap Up
+
+## Creatures
+bugbear
+bunny
+cerberus
+chimera
+cockatrice
+fruit bat
+goose
+hydra
+manticore
+parasprite
+phoenix
+sphinx
+star spider
+Tantabus
+tatzlwurm
+timberwolf
+tortoise
+ursa minor
+ursa major
+windigo
+winterchilla
+winterzilla
+The Great Seedling
+
+## Plants
+foal's breath
+heart's desire
+poison joke
+zap apple
+
+## Animal and inanimate characters
+Angel Bunny
+Bloofy
+Bloomberg
+Boneless
+Boulder
+Gummy
+Opalescence
+Owlowiscious
+Peewee
+Philomena
+Smarty Pants
+Tank
+Twiggy
+Winona
+
+## Fictional, invented, or mythical characters
+Mare-do-Well
+Mistress Mare-vellous
+The Masked Matter-Horn
+Filli-second
+Radiance
+Saddle Rager
+Zapp
+Humdrum
+The Mane-iac
+Snowfall Frost
+
+## Vehicles
+Super Speedy Cider Squeezy 6000
+Friendship Express
+
+## Other
+buckball
+zeppelin
+Ogres & Oubliettes
+blank flank
+The Stare
+Sonic Rainboom
+cutie pox
