@@ -7,9 +7,9 @@ This is a set of _My Little Pony_-themed word pack files for you to download and
 
 The following word packs are available:
 
-* [fim-common.txt](fim-common.txt): A set of words containing characters and concepts from the _My Little Pony: Friendship is Magic_ TV series only. The word selection is designed not to be too obscure and should only require general knowledge gained from watching the show.
-* [g4.txt](g4.txt): A set of words covering the entirety of _My Little Pony_ Generation 4, including _Friendship is Magic_, _Equestria Girls_, _My Little Pony: The Movie_ (2017), _Rainbow Roadtrip_, _Pony Life_, and the IDW comics. May include obscure characters and concepts. Recommended for knowledgeable fans of MLP Generation 4.
-* [g5.txt](g5.txt): A set of words pertaining to _My Little Pony_ Generation 5 only, starting with the 2021 movie _My Little Pony: A New Generation_ and including _Make Your Mark_, _Tell Your Tale_ and the 2022 video game _My Little Pony: A Maretime Bay Adventure_.
+* [fim-common.txt](fim-common.txt): A set of 300+ words containing characters and concepts from the _My Little Pony: Friendship is Magic_ TV series only. The word selection is designed not to be too obscure and should only require general knowledge gained from watching the show.
+* [g4.txt](g4.txt): A set of 550+ words covering the entirety of _My Little Pony_ Generation 4, including _Friendship is Magic_, _Equestria Girls_, _My Little Pony: The Movie_ (2017), _Rainbow Roadtrip_, _Pony Life_, and the IDW comics. May include obscure characters and concepts. Recommended for knowledgeable fans of MLP Generation 4.
+* [g5.txt](g5.txt): A set of 90+ words pertaining to _My Little Pony_ Generation 5 only, starting with the 2021 movie _My Little Pony: A New Generation_ and including _Make Your Mark_, _Tell Your Tale_ and the 2022 video game _My Little Pony: A Maretime Bay Adventure_.
 * [g4-and-g5.txt](g4-and-g5.txt): A combination of the G4 and G5 sets.
 
 ## Long version
@@ -25,7 +25,7 @@ This might sound simple, but in practice it is a fiendishly tense battle of comm
 The online version of _Codenames_ (<https://codenames.game/>) is completely free and requires no sign-up - you can just create a room and invite people to play.
 
 ### What are word packs?
-A word pack is a plain text file containing a set of words to be used in a _Codenames_ game. _Codenames_ has several default word packs, but you don't have to use them; in the online version, you can supply a word pack file containing your own custom words and tell the game to use those instead.
+A word pack is a plain text file containing a set of words to be used in an online _Codenames_ game. _Codenames_ has several default word packs, but you don't have to use them; in the online version, you can supply a word pack file containing your own custom words and tell the game to use those instead.
 
 ### How do I use the word packs in an online Codenames game?
 * Go to <https://codenames.game/>.
